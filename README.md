@@ -6,6 +6,13 @@
 
 Full documentation: [opensource.johnhenry.me/cyclable](https://opensource.johnhenry.me/cyclable/)
 
+> **Archived.** This package is folded back into
+> [`@johnhenry/domkit`](https://github.com/johnhenry/domkit) as of domkit
+> `0.0.4` — import `@johnhenry/domkit/cyclable/<module>/...` instead. The
+> unscoped npm package `@johnhenry/cyclable` is deprecated (not removed)
+> and will keep working at its last published version; this repo is
+> archived (read-only, not deleted).
+
 > **Provenance:** originally four individually-versioned modules under
 > [`johnhenry/lib`](https://github.com/johnhenry/lib)'s `js/` directory
 > (`js/localstorage-cycler/0.0.0/`, `js/localstorage-class-cycler/0.0.0/`,
